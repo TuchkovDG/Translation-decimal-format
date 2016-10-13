@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Task3(part2)</string>
+    <string name="res">Введите число</string>
+    <string name="str">Введите число</string>
+    <string name="src12">Введите число</string>
+    <string name="push">Перенос в 2-x</string>
+    <string name="push1">Перенос в 8-x</string>
+    <string name="push2">Перенос в 16-x</string>
+    <string name="res1">Вывод в двоичном формате</string>
+    <string name="res2">Вывод в восьмеричном формате</string>
+    <string name="res3">Вывод в шестнадцатеричном формате</string>
+</resources>
